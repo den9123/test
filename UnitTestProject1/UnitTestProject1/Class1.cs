@@ -8,6 +8,7 @@ namespace UnitTestProject1
 {
     class Class1
     {
+		
         public static int Test1(int x1, int x2)
         {
             return x1 * x2;
